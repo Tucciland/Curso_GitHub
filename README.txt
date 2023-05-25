@@ -1,0 +1,1 @@
+Nesse repositório se encontram alguns testes, atividades do curso e a evolução sobre o GitHub.
